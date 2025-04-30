@@ -1,1 +1,4 @@
-# Home-Lab-set-up-Kali-Ubuntu
+Home Lab Setup: Kali Linux + Ubuntu Server on VirtualBox
+
+**Objecttive**
+- 
