@@ -39,8 +39,7 @@ https://www.kali.org/get-kali/#kali-installer-images
 - Finish installation and remove the ISO before rebooting
 
 #### **Static IP Addressing (after installation)**
-sudo ip addr add 192.168.56.10/24
-dev eth0
+sudo ip addr add 192.168.56.10/24 dev eth0
 sudo ip link set eth0 up
 
 Or configure permanently in etc/network/interfaces:
